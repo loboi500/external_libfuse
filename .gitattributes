@@ -1,0 +1,14 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+LGPL2.txt filter=lfs diff=lfs merge=lfs -text
+lib filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+Android.patch filter=lfs diff=lfs merge=lfs -text
+GPL2.txt filter=lfs diff=lfs merge=lfs -text
+include filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+AUTHORS filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+meson.build filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_LGPL2 filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text

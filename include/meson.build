@@ -1,4 +1,3 @@
-libfuse_headers = [ 'fuse.h', 'fuse_common.h', 'fuse_lowlevel.h',
-	            'fuse_opt.h', 'cuse_lowlevel.h', 'fuse_log.h' ]
-
-install_headers(libfuse_headers, subdir: 'fuse3')
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e6ed9690e23ce6736a8738542555e9cb8437b19f04195d2fef5a35804bbd74e
+size 178
